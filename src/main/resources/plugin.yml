@@ -1,0 +1,4 @@
+name: TeamSigns
+version: '1.0-SNAPSHOT'
+main: de.luki.teamSigns.TeamSigns
+api-version: '1.18'

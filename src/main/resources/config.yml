@@ -1,0 +1,26 @@
+MySQL:
+  Host: host
+  Port: port
+  Datenbank: database
+  Benutzername: username
+  Passwort: password
+Heads:
+  YouTuber:
+  Builder:
+  Supporter:
+  Moderator:
+  Content:
+  Developer:
+  SrModerator:
+  Administrator:
+  Owner:
+Signs:
+  YouTuber:
+  Builder:
+  Supporter:
+  Moderator:
+  Content:
+  Developer:
+  SrModerator:
+  Administrator:
+  Owner:
